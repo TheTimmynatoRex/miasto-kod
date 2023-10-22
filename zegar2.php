@@ -1,0 +1,1 @@
+<?php include('zegar.php'); echo date('D d\-m\-Y H:i:s \(\@B\)')?>
